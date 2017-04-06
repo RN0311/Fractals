@@ -1,3 +1,3 @@
 # Fractals
-# Fractal Tree
-# Fractal Snowflake
+1) Fractal Tree
+2) Fractal Snowflake
